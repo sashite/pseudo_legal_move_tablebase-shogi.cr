@@ -1,0 +1,6 @@
+language: crystal
+
+# Uncommented, 'cause it takes too long...
+# script:
+#   - crystal spec
+#   - crystal tool format --check

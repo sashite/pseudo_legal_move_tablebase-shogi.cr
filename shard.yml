@@ -1,0 +1,9 @@
+name: pseudo_legal_move_tablebase-shogi
+version: 1.0.0
+
+authors:
+  - Cyril Kato <contact@cyril.email>
+
+crystal: 0.35.1
+
+license: MIT
